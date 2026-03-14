@@ -31,7 +31,7 @@ Expand-Archive -Path $zipPath -DestinationPath $unpackDir -Force
 # Show MessageBox
 [System.Windows.Forms.MessageBox]::Show(
     "    The ALF extension is unpacked into:`n`n    $unpackDir`n`n    The path has been copied to clipboard.",
-    "ALF Extension Ready",
+    "ALF Chrome Extension Agent",
     [System.Windows.Forms.MessageBoxButtons]::OK,
     [System.Windows.Forms.MessageBoxIcon]::Information
 )
