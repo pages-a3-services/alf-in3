@@ -1,7 +1,7 @@
 # alf
 
 - home: <https://public-a3-services.github.io/alf/>
-- version: 0.0.1
+- version: 0.0.0-16-g8632533
 
 ## agent
 
