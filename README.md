@@ -5,4 +5,4 @@
 
 ## agent
 
-- windows: [alf-chrome-extension.exe](https://public-a3-services.github.io/alf/agent/alf-chrome-extension.exe)
+- windows: [alf-chrome-extension-agent.exe](https://public-a3-services.github.io/alf/agent/alf-chrome-extension-agent.exe)
