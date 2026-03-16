@@ -1,6 +1,18 @@
+<style>
+  header h1::before {
+    content: "";
+    display: inline-block;
+    width: 60px;          /* Šírka ikony */
+    height: 60px;         /* Výška ikony */
+    margin-right: 15px;   /* Medzera od textu */
+    vertical-align: middle;
+    background-image: url('{{ site.baseurl }}/_media/alf-128.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+</style>
 
-
-![](/_media/alf-128.png)<br>`Automatically fills and manages your forms`
+`Automatically fills and manages your forms`
 
 # ALF – Auto Load Form
 
