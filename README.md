@@ -2,13 +2,23 @@
   .site-title::before {
     content: "";
     display: inline-block;
-    width: 24px;
-    height: 24px;
+    width: 64px;
+    height: 64px;
     vertical-align: middle;
     margin-right: 10px;
     background: url('{{ site.baseurl }}/_media/alf-128.png') no-repeat center;
     background-size: contain;
   }
+</style>
+<style>
+  /* Skryje ľavý stĺpec v pätke (názov a popis) */
+  .footer-col-1 { display: none !important; }
+  
+  /* Skryje pravý stĺpec v pätke (sociálne siete/odkazy) */
+  .footer-col-2 { display: none !important; }
+
+  /* Ak chceš zabiť úplne celú pätku */
+  .site-footer { display: none !important; }
 </style>
 
 # ALF – Auto Load Form
