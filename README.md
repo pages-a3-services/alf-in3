@@ -10,16 +10,7 @@
     background-size: contain;
   }
 </style>
-<style>
-  /* Skryje ľavý stĺpec v pätke (názov a popis) */
-  .social-links { display: none !important; }
-  
-  /* Skryje pravý stĺpec v pätke (sociálne siete/odkazy) */
-  #.footer-col-2 { display: none !important; }
 
-  /* Ak chceš zabiť úplne celú pätku */
-  #.site-footer { display: none !important; }
-</style>
 
 # ALF – Auto Load Form
 
