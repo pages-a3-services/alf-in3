@@ -1,10 +1,11 @@
 
 logo: "/_media/alf-128.png"
-title: ALF – Auto Load Form
+title: Auto Load Forms
 description: "Automatically fills and manages your forms"
 theme: jekyll-theme-slate
 show_downloads1: false
 github:
   is_project_page: false
+  is_user_page: false
 include:
   - _media
