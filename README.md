@@ -1,3 +1,17 @@
+<style>
+  header h1::before {
+    content: "";
+    display: inline-block;
+    width: 40px;          /* Šírka ikony */
+    height: 40px;         /* Výška ikony */
+    margin-right: 15px;   /* Medzera od textu */
+    vertical-align: middle;
+    background-image: url('{{ site.baseurl }}/_media/alf-128.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+</style>
+
 <center>
 
 
