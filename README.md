@@ -6,7 +6,8 @@
 # ALF – Auto Load Form
 
 - home: <https://public-a3-services.github.io/alf/>
-- version: 0.0.0-17-g91e44e0
+- chrome-extension: <https://public-a3-services.github.io/alf/release/alf.zip>
+- version: 0.0.0-19-g649f2aa
 
 ## Ag3nt
 
