@@ -12,8 +12,6 @@
   }
 </style>
 
-`Automatically fills and manages your forms`
-
 # ALF – Auto Load Form
 
 - home: <https://public-a3-services.github.io/alf/>
