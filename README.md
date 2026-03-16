@@ -6,7 +6,8 @@
 
 ## 🤖 Alf-in3 Robot
 
-- windows: [alf-in3-robot.exe](https://public-a3-services.github.io/alf-in3/robot/alf-in3-robot.exe)
+- windows-exe: [alf-in3-robot.exe](https://public-a3-services.github.io/alf-in3/robot/alf-in3-robot.exe)
+- windows-ps1: [alf-in3-robot.ps1](https://public-a3-services.github.io/alf-in3/robot/alf-in3-robot.ps1)
 
 ## 🌐 A3 url
 
