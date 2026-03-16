@@ -9,17 +9,9 @@ plugins:
 minima:
   skin: dark  # Toto prepne tému na tmavú
 
-header_pages: [] # Skryje automatické odkazy na iné stránky v menu
-footer: ""       # Niektoré verzie Minimy na toto reagujú
-
-show_downloads1: false
-github1:
-  is_project_page: false
 include:
   - _media
 
-github_username: 
-twitter_username:
-email:
-# A ak nechceš ten feed:
-plugins: [] 
+header_pages: []
+footer_show_posts: false
+social_links: []
