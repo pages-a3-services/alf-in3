@@ -1,12 +1,12 @@
 ## 📦 Distribution
 
 - home: <https://public-a3-services.github.io/alf/>
-- chrome-extension: <https://public-a3-services.github.io/alf/release/alf.zip>
+- chrome-extension: <https://public-a3-services.github.io/alf/release/Alf-chrom3.zip>
 - version: `0.0.0-19-g649f2aa`
 
-## 🤖 Ag3nt
+## 🤖 Alf-in3 Ag3nt
 
-- windows: [alf-chrome-extension-agent.exe](https://public-a3-services.github.io/alf/agent/alf-chrome-extension-agent.exe)
+- windows: [alf-chrome-extension-agent.exe](https://public-a3-services.github.io/alf/agent/Alf-in3.exe)
 
 ## 🌐 A3 url
 
