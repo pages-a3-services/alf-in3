@@ -1,2 +1,6 @@
+---
+layout: default
+title: "Môj vlastný názov"
+---
 include:
   - _media
