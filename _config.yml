@@ -9,7 +9,7 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-  skin: dark  # Toto prepne tému na tmavú
+  skin: dark
 
 include:
   - _media
