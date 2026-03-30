@@ -1,15 +1,16 @@
 ## 📦 Distribution
 
 - home: <https://public-a3-services.github.io/alf-in3/>
+- repo: <https://github.com/public-a3-services/alf-in3>
 - chrome-extension: <https://public-a3-services.github.io/alf-in3/release/alf-in3.zip>
 - version: `0.0.0-25-gc3793b8`
 
-## 🤖 Alf-in3 Robot
+## 🤖 Alf-in₃ Robot
 
 - windows-exe: [alf-in3-robot.exe](https://public-a3-services.github.io/alf-in3/robot/alf-in3-robot.exe)
 - windows-ps1: [alf-in3-robot.ps1](https://public-a3-services.github.io/alf-in3/robot/alf-in3-robot.ps1)
 
-## 🌐 A3 url
+## 🌐 A₃ url
 
 - https://a3.ugkk.dev
 
